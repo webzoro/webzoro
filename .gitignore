@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python bytecodes
+*.pyc
+
+# Sqlite database
+*.sqlite3
+
+# Environment file
+.env
+
+# Backup files
+*.bak
